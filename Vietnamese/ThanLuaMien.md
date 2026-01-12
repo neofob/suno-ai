@@ -49,12 +49,12 @@ in catheral.
 
 v10
 ```
-Tempo: 72 bpm, acoustic gospel, 432 Hz. Acoustic hymn starts with violin,
+Tempo: 72 bpm, acoustic Vietnamese gospel, 432 Hz. Acoustic hymn starts with violin,
 husky female vocal, duet, Sparse grand piano and gentle cello unfold, building
 into ethereal layered harmonies for a haunting, hymn chorus.  Expressive and
 soulful cello solos add melancholy, light gentle vibrato, resonant depth,
 warm reverb. Full male choir, full female choir, backing vocals, prayerful,
-uplifting, heavely, etheral reverb, Coptic Othordox chants, high quality,
+uplifting, heavely, etheral reverb, Coptic Orthodox chants, high quality,
 studio quality, unpolished in the best way. The piece ends with a delicate,
 lingering piano and cello outro - no drums, pure plucked and bowed intimacy.
 Eastern Scales, recorded in catheral.
