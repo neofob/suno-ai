@@ -3,7 +3,8 @@ Sáng tác: Nguyễn Văn Đông
 
 
 ### Lyric
-Original Source: https://hopamviet.vn/chord/song/chieu-mua-bien-gioi/W8IU0FDI.html
+Original Source:
+https://hopamviet.vn/chord/song/chieu-mua-bien-gioi/W8IU0FDI.html
 ```
 [verse 1 - female vocal]
 Chiều mưa biên giới anh đi về [C] đâu
@@ -45,8 +46,33 @@ v0
 ```
 Tempo: 72 bpm, 432 Hz, Vietnamese Slow Rock, Saigon 1960s style, gentle
 vibrato, duet, raw, intimate, deep husky male vocal, deep husky female vocal,
-đàn bầu, Heavy Frame Drum, Percussion, tamborine, full male choir, full female
-choir, backing vocals, Meditative, Prayerful, Uplifting, Heavenly, Ethereal Reverb,
-Warm reverb, Eastern Scales, đàn tranh, bamboo xylophone, castanets, high quality,
-unpolished in the best way, recorded in an empty room.
+đàn bầu, Heavy Frame Drum, Percussion, tamborine, full male choir,
+full female
+choir, backing vocals, Meditative, Prayerful, Uplifting, Heavenly, Ethereal
+Reverb,
+Warm reverb, Eastern Scales, đàn tranh, bamboo xylophone, castanets,
+high quality,
+studio quality, unpolished in the best way, recorded in an empty room.
+```
+
+v6
+```
+Tempo: 92 bpm, 432 Hz, Vietnamese Saigon 1970s Slow Rock, gentle vibrato,
+duet, raw, intimate, deep husky male vocal, deep husky female vocal, đàn
+bầu, Heavy Frame Drum, Percussion, tamborine, full male choir, full female
+choir, backing vocals, Meditative, Prayerful, Uplifting, Heavenly, Ethereal
+Reverb, Warm reverb, Eastern Scales, đàn tranh, bamboo xylophone, castanets,
+high quality, studio quality, unpolished in the best way, recorded in an
+empty room
+```
+
+v7
+```
+Tempo: 92 bpm, 432 Hz. Vietnamese Saigon 1970s Slow Rock, gentle vibrato,
+duet, raw, intimate, deep husky male vocal, deep husky female vocal, đàn
+bầu, Heavy Frame Drum, Percussion, tamborine, full male choir, full female
+choir, backing vocals, Meditative, Prayerful, Uplifting, Heavenly, Ethereal
+Reverb, Warm reverb, Eastern Scales, đàn tranh, bamboo xylophone, castanets,
+high quality, studio quality, unpolished in the best way, acoustic driven,
+recorded in an empty room.
 ```
