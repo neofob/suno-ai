@@ -60,3 +60,28 @@ lingering piano and cello outro - no drums, pure plucked and bowed intimacy.
 Eastern Scales, recorded in catheral.
 
 ```
+
+v14
+```
+Tempo: 72 bpm, acoustic Vietnamese Catholic hymn, 432 Hz. Acoustic hymn starts with violin,
+husky female vocal, duet, Sparse grand piano and gentle cello unfold, building
+into ethereal layered harmonies for a haunting, hymn chorus.  Expressive and
+soulful cello solos add melancholy, light gentle vibrato, resonant depth,
+warm reverb. Full male choir, full female choir, backing vocals, prayerful,
+uplifting, heavely, etheral reverb, Coptic Orthodox chants, high quality,
+studio quality, unpolished in the best way, acoustic driven. The piece ends with a delicate,
+lingering piano and cello outro - no drums, pure plucked and bowed intimacy.
+Eastern Scales, recorded in cathedral.
+```
+
+v17
+```
+Tempo: 72 bpm, 432 Hz, F tone, acoustic Vietnamese Catholic hymn. Acoustic hymn
+starts with violin, husky female vocal, duet, Sparse grand piano and gentle cello
+unfold, building into ethereal layered harmonies for a haunting, hymn chorus.
+Expressive and soulful cello solos add melancholy, light gentle vibrato, resonant depth,
+warm reverb. Full male choir, full female choir, backing vocals, prayerful, uplifting,
+heavenly, ethereal reverb, Coptic Orthodox chants, high quality, studio quality, unpolished
+in the best way, acoustic driven. The piece ends with a delicate, lingering piano and cello
+outro - no drums, pure plucked and bowed intimacy. Eastern Scales, recorded in cathedral.
+```
